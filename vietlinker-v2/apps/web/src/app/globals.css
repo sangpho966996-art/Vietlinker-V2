@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-  html {
-    font-family: 'Inter', system-ui, sans-serif;
-  }
-  
   body {
     font-feature-settings: 'cv11', 'ss01';
     font-variation-settings: 'opsz' 32;
